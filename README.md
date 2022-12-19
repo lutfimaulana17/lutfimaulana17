@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lutfi Maulana
-- 👀 I’m interested in all thing web development technology with Javascript
+- 👀 I’m interested in all thing regarding web development technology with Javascript
 - 🌱 I’m currently learning Interactive Web Apps
 - 💞️ I’m looking to collaborate on fun projects that have a powerful impact on people's lives
 - 📫 How to reach me send me email : lutfimaulana.fi@gmail.com or DM me on linkedin : https://www.linkedin.com/in/lutfimaulana/
